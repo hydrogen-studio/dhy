@@ -27,4 +27,4 @@ Installation
 Table of Content
 ----------------
 
-* :ref:`client <index>` 
+:ref:`client <index>` 
