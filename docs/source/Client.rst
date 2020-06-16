@@ -19,4 +19,4 @@ Constructor
      - Options For the Client
 
 
-`_**Properties**`_
+:underline: `**Properties**`
