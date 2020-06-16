@@ -27,4 +27,4 @@ Installation
 Table of Content
 ----------------
 
-* :doc:`client <./client.rst>` 
+* :ref:`client <index>` 
