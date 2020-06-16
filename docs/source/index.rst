@@ -28,8 +28,8 @@ Table of Content
 ----------------
 **Classes**
 
-* `client <https://dhy.readthedocs.io/en/latest/client.html>`_
+* `client <https://dhy.readthedocs.io/en/latest/Client.html>`_
 
 **Typedefs**
 
-* `clientOptions <https://dhy.readthedocs.io/en/latest/clientoptions.html>`_
+* `clientOptions <https://dhy.readthedocs.io/en/latest/ClientOptions.html>`_
