@@ -26,5 +26,7 @@ Installation
 
 Table of Content
 ----------------
-
-* `Client <https://dhy.readthedocs.io/en/latest/client.html>`_
+**Classes**
+* `client <https://dhy.readthedocs.io/en/latest/client.html>`_
+**Typedefs**
+* `clientOptions <https://dhy.readthedocs.io/en/latest/clientoptions.html>`_
