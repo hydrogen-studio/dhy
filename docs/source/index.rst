@@ -27,11 +27,6 @@ Installation
 Table of Content
 ----------------
 
-
-
-Table of Content
-----------------
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
