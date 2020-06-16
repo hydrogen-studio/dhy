@@ -28,4 +28,3 @@ Table of Content
 ----------------
 
 * `Client <https://dhy.readthedocs.io/en/latest/client.html>`_
-   * `Client <https://dhy.readthedocs.io/en/latest/client.html>`_
