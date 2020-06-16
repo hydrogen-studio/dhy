@@ -6,15 +6,21 @@
 Welcome to discord.hy's documentation!
 ======================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
+Info
+----
 
+Discord.hy is a discord bot making library that covers discord's 100% api.
 
-Indices and tables
-==================
+Requirements
+------------
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+You must have node.js version 12.0.0 or above for this to work.
+
+Installation
+------------
+
+.. code-block:: text
+
+   npm i --save discord.hy
+   
