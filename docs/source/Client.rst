@@ -28,7 +28,7 @@ Constructor
 
 *guilds* - all of the guilds the client is handling. Type: guildManager
 
-*options* - all of the client options. Type: `_ClientOptions <https://dhy.readthedocs.io/en/latest/ClientOptions.html>`_
+*options* - all of the client options. Type: `ClientOptions <https://dhy.readthedocs.io/en/latest/ClientOptions.html>`_
 
 *readyAt* - the time the client fires the ready event. Type: ?Date
 
