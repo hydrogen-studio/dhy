@@ -19,4 +19,5 @@ Constructor
      - Options For the Client
 
 
-:underline:`**Properties**`
+**Properties**
+--------------
