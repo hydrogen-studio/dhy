@@ -27,4 +27,4 @@ Installation
 Table of Content
 ----------------
 
-:ref:`anchor text <t3start:index>`
+`Client <https://dhy.readthedocs.io/en/latest/client.html>`_
