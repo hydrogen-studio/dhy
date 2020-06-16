@@ -32,4 +32,4 @@ Table of Content
 
 **Typedefs**
 
-* `clientOptions <https://dhy.readthedocs.io/en/latest/ClientOptions.html>`_
+All of the typedefs are the same as discord.js'. Please use their documentation for this.
