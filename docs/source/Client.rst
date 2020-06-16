@@ -15,5 +15,5 @@ Constructor
      - Heading Type
      - Heading Description
    * - options
-     - ClientOptions
+     - `clientOptions<https://dhy.readthedocs.io/en/latest/ClientOptions.html>`_
      - Options For the Client
