@@ -27,4 +27,11 @@ Installation
 Table of Content
 ----------------
 
-* client$
+
+
+Table of Content
+----------------
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
