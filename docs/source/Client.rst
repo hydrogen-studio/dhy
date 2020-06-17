@@ -30,23 +30,23 @@ Constructor
 
 *options* - all of the client options. Type: `ClientOptions <https://discord.js.org/#/docs/main/stable/typedef/ClientOptions>`_
 
-*readyAt* - the time the client fires the ready event. Type: ? `Date <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date>`_
+*readyAt* - the time the client fires the ready event. Type: `?Date <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date>`_
 
-*readyTimestamp* - the unix timestamp of when the client fires the ready event. Type: ? `number <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number>`_
+*readyTimestamp* - the unix timestamp of when the client fires the ready event. Type: `?number <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number>`_
 
-*shard* - Shard helpers for the client. Type: ? `shardClientUtil <https://discord.js.org/#/docs/main/stable/class/ShardClientUtil>`_
+*shard* - Shard helpers for the client. Type: `?shardClientUtil <https://discord.js.org/#/docs/main/stable/class/ShardClientUtil>`_
 
-*token* - Bot token used to login the bot. Should be kept secret at all times. Type: ?string
+*token* - Bot token used to login the bot. Should be kept secret at all times. Type: `?string <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String>`_
 
-*uptime* - How long the bot has been up. Type: ?number
+*uptime* - How long the bot has been up. Type: `?number <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number>`_
 
-*user* - the user the client is logged in as. Type: ?ClientUser
+*user* - the user the client is logged in as. Type: `?ClientUser <https://discord.js.org/#/docs/main/stable/class/ClientUser>`_
 
-*users* - all of the users available to the client. Type: userManager
+*users* - all of the users available to the client. Type: `userManager <https://discord.js.org/#/docs/main/stable/class/UserManager>`_
 
-*voice* - the voice manager of the client. Type: voice
+*voice* - the voice manager of the client. Type: `clientVoiceManager <https://discord.js.org/#/docs/main/stable/class/ClientVoiceManager>`_
 
-*ws* - the websocket manager of the client. Type: websocketManager
+*ws* - the websocket manager of the client. Type: `websocketManager <https://discord.js.org/#/docs/main/stable/class/WebSocketManager>`_
 
 **Methods**
 
