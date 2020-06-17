@@ -22,19 +22,19 @@ Constructor
 **Properties**
 --------------
 
-*channels* - all of the channels the client is handling. Type: channelManager
+*channels* - all of the channels the client is handling. Type: `channelManager <https://discord.js.org/#/docs/main/stable/class/ChannelManager>`_
 
-*emojis* - all custom emojis a client have access to. Type: guildEmojiManager
+*emojis* - all custom emojis a client have access to. Type: `guildEmojiManager <https://discord.js.org/#/docs/main/stable/class/GuildEmojiManager>`_
 
-*guilds* - all of the guilds the client is handling. Type: guildManager
+*guilds* - all of the guilds the client is handling. Type: `guildManager <https://discord.js.org/#/docs/main/stable/class/GuildManager>`_
 
-*options* - all of the client options. Type: `ClientOptions <https://dhy.readthedocs.io/en/latest/ClientOptions.html>`_
+*options* - all of the client options. Type: `ClientOptions <https://discord.js.org/#/docs/main/stable/typedef/ClientOptions>`_
 
-*readyAt* - the time the client fires the ready event. Type: ?Date
+*readyAt* - the time the client fires the ready event. Type: ?`Date <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date>`_
 
-*readyTimestamp* - the unix timestamp of when the client fires the ready event. Type: ?number
+*readyTimestamp* - the unix timestamp of when the client fires the ready event. Type: ?`number <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number>`_
 
-*shard* - Shard helpers for the client. Type: ?shardClientUtil
+*shard* - Shard helpers for the client. Type: ?`shardClientUtil <https://discord.js.org/#/docs/main/stable/class/ShardClientUtil>`_
 
 *token* - Bot token used to login the bot. Should be kept secret at all times. Type: ?string
 
@@ -50,4 +50,14 @@ Constructor
 
 **Methods**
 
-*clearImmediate* - Clears an immediate
+*clearImmediate* - Clears an immediate - returns Void
+.. list-table:: Parameters
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - Parameter
+     - Type
+     - Description
+   * - imediate
+     - Immediate
+     - Immediate to cancel
