@@ -51,6 +51,7 @@ Constructor
 **Methods**
 
 *clearImmediate* - Clears an immediate - returns Void
+
 .. list-table:: Parameters
    :widths: 25 25 50
    :header-rows: 1
