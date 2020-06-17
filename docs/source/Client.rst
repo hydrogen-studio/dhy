@@ -30,11 +30,11 @@ Constructor
 
 *options* - all of the client options. Type: `ClientOptions <https://discord.js.org/#/docs/main/stable/typedef/ClientOptions>`_
 
-*readyAt* - the time the client fires the ready event. Type: ?`Date <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date>`_
+*readyAt* - the time the client fires the ready event. Type: ? `Date <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date>`_
 
-*readyTimestamp* - the unix timestamp of when the client fires the ready event. Type: ?`number <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number>`_
+*readyTimestamp* - the unix timestamp of when the client fires the ready event. Type: ? `number <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number>`_
 
-*shard* - Shard helpers for the client. Type: ?`shardClientUtil <https://discord.js.org/#/docs/main/stable/class/ShardClientUtil>`_
+*shard* - Shard helpers for the client. Type: ? `shardClientUtil <https://discord.js.org/#/docs/main/stable/class/ShardClientUtil>`_
 
 *token* - Bot token used to login the bot. Should be kept secret at all times. Type: ?string
 
