@@ -50,7 +50,7 @@ Constructor
 
 **Methods**
 
-*clearImmediate* - Clears an immediate - returns Void
+*clearImmediate* - Clears an immediate - returns `void <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined>`_
 
 .. list-table::
    :widths: 25 25 50
@@ -59,6 +59,19 @@ Constructor
    * - Parameter
      - Type
      - Description
-   * - imediate
+   * - immediate
      - Immediate
      - Immediate to cancel
+     
+ *clearInterval* - Clears an interval - `void <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined>`_
+ 
+  .. list-table::
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - Parameter
+     - Type
+     - Description
+   * - interval
+     - `Timeout <https://nodejs.org/dist/latest/docs/api/timers.html#timers_class_timeout>`_
+     - Interval to cancel
