@@ -47,3 +47,7 @@ Constructor
 *voice* - the voice manager of the client. Type: voice
 
 *ws* - the websocket manager of the client. Type: websocketManager
+
+**Methods**
+
+*clearImmediate* - Clears an immediate
