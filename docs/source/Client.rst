@@ -15,7 +15,7 @@ Constructor
      - Heading Type
      - Heading Description
    * - options
-     - `clientOptions <https://dhy.readthedocs.io/en/latest/ClientOptions.html>`_
+     - `ClientOptions <https://discord.js.org/#/docs/main/stable/typedef/ClientOptions>`_
      - Options For the Client
 
 
